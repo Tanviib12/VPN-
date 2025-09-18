@@ -74,6 +74,11 @@ Generate certificates using OpenSSL:
 • OpenSSL for certificate management
 • RSA, AES, X.509 for security
 
+🤝 Contributing
+
+This project is in under progress state.
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
 
 📜 License
 
